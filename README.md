@@ -2,6 +2,8 @@
 
 An unsupervised machine learning project that segments retail customers into distinct groups based on their purchasing behavior, enabling targeted and personalized marketing strategies.
 
+## Customer segmentation Web App
+https://martinsnduka-customer-segmentation-project-app-givd1d.streamlit.app/
 
 ## Business Problem
 
